@@ -1,0 +1,17 @@
+{
+  "name": "tradebot",
+  "version": "1.0.0",
+  "description": "telegram trade bot for grim dawn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["telegram bot", "server"],
+  "author": "Merlin Kegler",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
